@@ -209,7 +209,7 @@ export default function RegisterPage() {
 					});
 				}}
 			/>
-			<div className='flex items-center text-lg space-x-2 mb-2.5'>
+			<div className='flex items-center text-lg space-x-2'>
 				<label htmlFor='membershipType' className='text-nowrap mb-2.5'>
 					Membership Type
 				</label>
